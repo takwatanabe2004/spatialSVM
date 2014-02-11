@@ -1,0 +1,26 @@
+% Last update: (02/10/2014)
+%-------------------------------------------------------------------------%
+% This package contains the codes for running the ADMM algorithm described
+% in the paper ``Disease Prediction based on Functional Connectomes using 
+% a Scalable and Spatially-Informed Support Vector Machine.'' 
+% (please see: http://arxiv.org/abs/1310.5415)
+%
+% The synthetic data, as well as the scripts for generating them, can be 
+% found in directory ./simulation_data.
+%
+% The real schizophrenia functional connectome dataset will be released in 
+% the very near future.
+%-------------------------------------------------------------------------%
+% "sim_run_admm.m" will run the ADMM algorithm for performing binary
+% classification on the synthetic functional connectome.
+%
+% Loss function supported:
+%   1. hinge loss 
+%   2. truncated least squares
+%   3. huberized hinge loss
+%
+% Regularizers supported:
+%   1. Elastic-net
+%   2. GraphNet
+%   3. Fused Lasso
+%-------------------------------------------------------------------------%
