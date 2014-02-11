@@ -1,5 +1,7 @@
 % Last update: (02/10/2014)
 %-------------------------------------------------------------------------%
+% Note: make sure to run the script "init.m" in the very beginning.
+%-------------------------------------------------------------------------%
 % This package contains the codes for running the ADMM algorithm described
 % in the paper ``Disease Prediction based on Functional Connectomes using 
 % a Scalable and Spatially-Informed Support Vector Machine.'' 
