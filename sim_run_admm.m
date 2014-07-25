@@ -1,6 +1,4 @@
-% sim_run_admm.m (01/07/2014)
-%==========================================================================
-%--------------------------------------------------------------------------
+% sim_run_admm.m
 %%
 clear
 close all
@@ -61,7 +59,7 @@ options.loss='hinge1';
 options.rho=1;
 
 %-------------------------------------------------------------------------%
-% termination criterion
+% termination criteria
 %-------------------------------------------------------------------------%
 options.termin.maxiter = 400;   % <- maximum number of iterations
 options.termin.tol = 4e-3;      % <- relative change in the primal variable

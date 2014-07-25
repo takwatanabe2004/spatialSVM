@@ -1,4 +1,4 @@
-% Last update: (02/10/2014)
+% Last update: (07/25/2014)
 %-------------------------------------------------------------------------%
 % Note: make sure to run the script "init.m" in the very beginning.
 %-------------------------------------------------------------------------%
@@ -10,11 +10,14 @@
 % The synthetic data, as well as the scripts for generating them, can be 
 % found in directory ./simulation_data.
 %
-% The real schizophrenia functional connectome dataset will be released in 
-% the very near future.
+% The real schizophrenia functional connectome dataset can be found in
+% directory ./real_data
 %-------------------------------------------------------------------------%
 % "sim_run_admm.m" will run the ADMM algorithm for performing binary
 % classification on the synthetic functional connectome.
+%
+% "real_run_admm.m" will run the ADMM algorithm for performing binary
+% classification on the real functional connectome.
 %
 % Loss function supported:
 %   1. hinge loss 

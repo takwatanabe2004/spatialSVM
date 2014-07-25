@@ -7,11 +7,7 @@
 %   1. t_Simulation_EstimParam.m 
 %       - compute sample mean and variance for the normal distribution
 %       - output: Results.mat
-%       %=================================================================%
-%          note: this currently won't run, as this requries access to the 
-%          real functional connectome dataset.  This dataset will be 
-%          released in the very near future.
-%       %=================================================================%
+%
 %   2. t_get_347_graphinfo_2d.m 
 %       - get the 4-D coordinate information of the synthetic connectome, 
 %         as well as the adjacency matrix (adjmat)
