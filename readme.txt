@@ -29,3 +29,17 @@
 %   2. GraphNet
 %   3. Fused Lasso
 %-------------------------------------------------------------------------%
+% Dataset description:
+%
+% Data collection was performed at the Mind Research Network, and funded 
+% by a Center of Biomedical Research Excellence (COBRE) grant 
+% 5P20RR021938/P20GM103472 from the NIH to Dr. Vince Calhoun. 
+% The COBRE data set can also be downloaded from the COllaborative 
+% Informatics and Neuroimaging Suite data exchange tool (COINS[1]; 
+% http://coins.mrn.org/dx). 
+%
+% [1] A. Scott, W. Courtney, D. Wood, R. De la Garza, S. Lane, R. Wang, 
+% J. Roberts, J. A. Turner, and V. D. Calhoun, "COINS: An innovative 
+% informatics and neuroimaging tool suite built for large heterogeneous 
+% datasets," Frontiers in Neuroinformatics, vol. 5, pp. 1-15, 2011
+%-------------------------------------------------------------------------%
